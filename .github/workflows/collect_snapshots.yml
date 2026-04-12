@@ -1,0 +1,40 @@
+name: Collect Snapshot
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # every 5 minutes (GitHub minimum)
+  workflow_dispatch:         # allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect snapshot
+        run: python scripts/collect_snapshot.py
+        working-directory: ${{ github.workspace }}
+
+      - name: Commit and push new rows
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/snapshots/
+          git diff --cached --quiet && echo "No new data." || (
+            git commit -m "snapshot: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git pull --rebase
+            git push
+          )

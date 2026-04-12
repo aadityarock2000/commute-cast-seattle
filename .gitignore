@@ -1,3 +1,22 @@
 .cursor/
 CLAUDE.md
 context.md
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+notebooks/.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# Large raw data files (re-downloadable via check_data_sources.py)
+data/raw/google_transit.zip
+data/raw/*.json
+
+# OS
+.DS_Store
+Thumbs.db
