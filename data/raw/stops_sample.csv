@@ -1,0 +1,201 @@
+stop_id,stop_code,stop_name,tts_stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+100,100,1st Ave & Spring St,First Avenue and Spring Street,,47.6051369,-122.336533,21,,0,,America/Los_Angeles,1
+10005,10005,40th Ave NE & NE 51st St,40th Avenue Northeast and Northeast 51st Street,,47.6658859,-122.284897,1,,0,,America/Los_Angeles,1
+10010,10010,NE 55th St & 39th Ave NE,Northeast 55th Street and 39th Avenue Northeast,,47.6685791,-122.285667,1,,0,,America/Los_Angeles,1
+10020,10020,NE 55th St & 37th Ave NE,Northeast 55th Street and 37th Avenue Northeast,,47.6685791,-122.2883,1,,0,,America/Los_Angeles,1
+10030,10030,NE 55th St & 35th Ave NE,Northeast 55th Street and 35th Avenue Northeast,,47.6685791,-122.290512,1,,0,,America/Los_Angeles,1
+10040,10040,NE 55th St & 33rd Ave NE,Northeast 55th Street and 33rd Avenue Northeast,,47.6685829,-122.293015,1,,0,,America/Los_Angeles,1
+10050,10050,NE 55th St & 30th Ave NE,Northeast 55th Street and 30th Avenue Northeast,,47.6685905,-122.295448,1,,0,,America/Los_Angeles,1
+10060,10060,NE 55th St & 27th Ave NE,Northeast 55th Street and 27th Avenue Northeast,,47.6685944,-122.298859,1,,0,,America/Los_Angeles,1
+10070,10070,NE 55th St & 25th Ave NE,Northeast 55th Street and 25th Avenue Northeast,,47.6685944,-122.30098,1,,0,,America/Los_Angeles,1
+10083,10083,Ravenna Ave NE & Ravenna Pl NE,Ravenna Avenue Northeast and Ravenna Place Northeast,,47.6684799,-122.30378,1,,0,,America/Los_Angeles,1
+101,101,Spring St & 3rd Ave,Spring Street and Third Avenue,,47.6061363,-122.334969,21,,0,,America/Los_Angeles,1
+1010,1010,Howell St & Minor Ave,Howell Street and Minor Avenue,,47.6167107,-122.330597,1,,0,,America/Los_Angeles,1
+10100,10100,NE Ravenna Blvd & Park Rd NE,Northeast Ravenna Boulevard and Park Road Northeast,,47.6695518,-122.305405,1,,0,,America/Los_Angeles,1
+10110,10110,20th Ave NE & NE 55th St,20th Avenue Northeast and Northeast 55th Street,,47.6682739,-122.30658,1,,0,,America/Los_Angeles,1
+10120,10120,20th Ave NE & NE 52nd St,20th Avenue Northeast and Northeast 52nd Street,,47.6662827,-122.306602,1,,0,,America/Los_Angeles,1
+10130,10130,NE 50th St & 19th Ave NE,Northeast 50th Street and 19th Avenue Northeast,,47.6649284,-122.307114,1,,0,,America/Los_Angeles,1
+10145,10145,NE 50th St & 16th Ave NE,Northeast 50th Street and 16th Avenue Northeast,,47.664959,-122.311172,1,,0,,America/Los_Angeles,1
+10170,10170,Fairview Ave E & E Nelson Pl,Fairview Avenue East and East Nelson Place,,47.6300545,-122.329338,1,,0,,America/Los_Angeles,1
+10180,10180,Fairview Ave N & Yale Ave N,Fairview Avenue North and Yale Avenue North,,47.6283493,-122.33152,1,,0,,America/Los_Angeles,1
+10190,10190,Fairview Ave N & Aloha St,Fairview Avenue North and Aloha Street,,47.6270752,-122.333122,1,,0,,America/Los_Angeles,1
+102,102,Spring St & 4th Ave,Spring Street and Fourth Avenue,,47.6069107,-122.333092,21,,0,,America/Los_Angeles,1
+10210,10210,Fairview Ave N & Mercer St,Fairview Avenue North and Mercer Street,,47.6235619,-122.33445,1,,0,,America/Los_Angeles,1
+10225,10225,Fairview Ave N & Thomas St,Fairview Avenue North and Thomas Street,,47.6205864,-122.334435,1,,0,,America/Los_Angeles,1
+10240,10240,Boren Ave & Virginia St,Boren Avenue and Virginia Street,,47.6175003,-122.333817,1,,0,,America/Los_Angeles,1
+10280,10280,Fairview Ave & Denny Way,Fairview Avenue and Denny Way,,47.6188736,-122.334198,1,,0,,America/Los_Angeles,1
+103,103,Spring St & 8th Ave,Spring Street and Eighth Avenue,,47.6085281,-122.329239,1,,0,,America/Los_Angeles,1
+10305,10305,Fairview Ave N & Harrison St,Fairview Avenue North and Harrison Street,,47.6222763,-122.334229,1,,0,,America/Los_Angeles,1
+10325,10325,Fairview Ave N & Valley St,Fairview Avenue North and Valley Street,,47.6266136,-122.33345,1,,0,,America/Los_Angeles,1
+10328,10328,Valley St & Fairview Ave N,Valley Street and Fairview Avenue North,,47.6260338,-122.334106,1,,0,,America/Los_Angeles,1
+10350,10350,Fairview Ave E & Yale Ave N,Fairview Avenue East and Yale Avenue North,,47.6299744,-122.329185,1,,0,,America/Los_Angeles,1
+10370,10370,NE 50th St & University Way NE,Northeast 50th Street and University Way Northeast,,47.6648293,-122.31266,1,,0,,America/Los_Angeles,1
+10380,10380,NE 50th St & 16th Ave NE,Northeast 50th Street and 16th Avenue Northeast,,47.664814,-122.310432,1,,0,,America/Los_Angeles,1
+104,104,Madison St & Terry Ave,Madison Street and Terry Avenue,,47.6089478,-122.325897,1,,0,,America/Los_Angeles,1
+1040,1040,Olive Way & 6th Ave,Olive Way and Sixth Avenue,,47.6130257,-122.336334,21,,0,,America/Los_Angeles,1
+10400,10400,20th Ave NE & NE 50th St,20th Avenue Northeast and Northeast 50th Street,,47.6650276,-122.306404,1,,0,,America/Los_Angeles,1
+10410,10410,20th Ave NE & NE 52nd St,20th Avenue Northeast and Northeast 52nd Street,,47.6666412,-122.306404,1,,0,,America/Los_Angeles,1
+10420,10420,20th Ave NE & NE 54th St,20th Avenue Northeast and Northeast 54th Street,,47.6681633,-122.306389,1,,0,,America/Los_Angeles,1
+10430,10430,NE Ravenna Blvd & 21st Ave NE,Northeast Ravenna Boulevard and 21st Avenue Northeast,,47.669239,-122.305595,1,,0,,America/Los_Angeles,1
+10445,10445,Ravenna Ave NE & NE 54th St,Ravenna Avenue Northeast and Northeast 54th Street,,47.6680031,-122.303864,1,,0,,America/Los_Angeles,1
+10460,10460,NE 55th St & 25th Ave NE,Northeast 55th Street and 25th Avenue Northeast,,47.6684494,-122.300217,1,,0,,America/Los_Angeles,1
+10470,10470,NE 55th St & 27th Ave NE,Northeast 55th Street and 27th Avenue Northeast,,47.6684494,-122.298218,1,,0,,America/Los_Angeles,1
+10480,10480,NE 55th St & 30th Ave NE,Northeast 55th Street and 30th Avenue Northeast,,47.6684494,-122.295074,1,,0,,America/Los_Angeles,1
+10490,10490,NE 55th St & 33rd Ave NE,Northeast 55th Street and 33rd Avenue Northeast,,47.6684494,-122.29232,1,,0,,America/Los_Angeles,1
+105,105,Madison St & Boylston Ave,Madison Street and Boylston Avenue,,47.6103554,-122.322517,1,,0,,America/Los_Angeles,1
+1050,1050,Olive Way & 8th Ave,Olive Way and Eighth Avenue,,47.6139374,-122.33416,1,,0,,America/Los_Angeles,1
+10500,10500,NE 55th St & 35th Ave NE,Northeast 55th Street and 35th Avenue Northeast,,47.6684456,-122.29039,1,,0,,America/Los_Angeles,1
+10510,10510,NE 55th St & 36th Ave NE,Northeast 55th Street and 36th Avenue Northeast,,47.6684456,-122.288803,1,,0,,America/Los_Angeles,1
+10513,10513,40th Ave NE & NE 46th St,40th Avenue Northeast and Northeast 46th Street,,47.6619339,-122.284668,1,,0,,America/Los_Angeles,1
+10515,10515,40th Ave NE & NE 50th St,40th Avenue Northeast and Northeast 50th Street,,47.6650925,-122.284698,1,,0,,America/Los_Angeles,1
+10525,10525,NE 55th St & 40th Ave NE,Northeast 55th Street and 40th Avenue Northeast,,47.6684418,-122.285049,1,,0,,America/Los_Angeles,1
+10550,10550,NE 55th St & 45th Ave NE,Northeast 55th Street and 45th Avenue Northeast,,47.6690025,-122.279121,1,,0,,America/Los_Angeles,1
+10560,10560,NE 55th St & Princeton Ave NE,Northeast 55th Street and Princeton Avenue Northeast,,47.6691818,-122.275909,1,,0,,America/Los_Angeles,1
+10561,10561,Sand Point Way NE & 38th Ave NE,Sand Point Way Northeast and 38th Avenue Northeast,,47.6615753,-122.286484,1,,0,,America/Los_Angeles,1
+10562,10562,Sand Point Way NE & 40th Ave NE,Sand Point Way Northeast and 40th Avenue Northeast,,47.6634483,-122.284119,1,,0,,America/Los_Angeles,1
+10564,10564,Sand Point Way NE & NE 50th St,Sand Point Way Northeast and Northeast 50th Street,,47.6646538,-122.282867,1,,0,,America/Los_Angeles,1
+10566,10566,Sand Point Way NE & NE 52nd St,Sand Point Way Northeast and Northeast 52nd Street,,47.6670799,-122.28035,1,,0,,America/Los_Angeles,1
+10568,10568,Sand Point Way NE & Princeton Ave NE,Sand Point Way Northeast and Princeton Avenue Northeast,,47.6681938,-122.275978,1,,0,,America/Los_Angeles,1
+10580,10580,Sand Point Way NE & NE Windermere Rd,Sand Point Way Northeast and Northeast Windermere Road,,47.6702614,-122.270485,1,,0,,America/Los_Angeles,1
+106,106,E Madison St & 12th Ave,East Madison Street and 12th Avenue,,47.6131248,-122.31588,1,,0,,America/Los_Angeles,1
+10600,10600,Sand Point Way NE & NE 61st St,Sand Point Way Northeast and Northeast Sixty First Street,,47.6729889,-122.266663,1,,0,,America/Los_Angeles,1
+10620,10620,Sand Point Way NE & NE 65th St,Sand Point Way Northeast and Northeast 65th Street,,47.6759758,-122.263428,1,,0,,America/Los_Angeles,1
+10630,10630,Sand Point Way NE & NE 70th St,Sand Point Way Northeast and Northeast 70th Street,,47.6797371,-122.263519,1,,0,,America/Los_Angeles,1
+10640,10640,Sand Point Way NE & NE 74th St,Sand Point Way Northeast and Northeast 74th Street,,47.6817589,-122.263565,1,,0,,America/Los_Angeles,1
+10641,10641,Sand Point Way NE & NE 74th St,Sand Point Way Northeast and Northeast 74th Street,,47.6824036,-122.263573,1,,0,,America/Los_Angeles,1
+10650,10650,Sand Point Way NE & NE 77th St,Sand Point Way Northeast and Northeast 77th Street,,47.6850052,-122.264465,1,,0,,America/Los_Angeles,1
+10653,10653,NOAA & Building 1,NOAA and Building One,,47.6865425,-122.257362,1,,0,,America/Los_Angeles,1
+10654,10654,NE NOAA Dr,Northeast NOAA Drive,,47.6861496,-122.260803,1,,0,,America/Los_Angeles,1
+10657,10657,NE NOAA Dr & Guard Shack,Northeast NOAA Drive and Guard Shack,,47.6862411,-122.259926,1,,0,,America/Los_Angeles,1
+10658,10658,NOAA & Building 3,NOAA and Building Three,,47.6860123,-122.255531,1,,0,,America/Los_Angeles,1
+10680,10680,Sand Point Way NE & Inverness Dr NE,Sand Point Way Northeast and Inverness Drive Northeast,,47.6928253,-122.270943,1,,0,,America/Los_Angeles,1
+107,107,E Madison St & 17th Ave,East Madison Street and 17th Avenue,,47.615696,-122.309723,1,,0,,America/Los_Angeles,1
+1070,1070,Olive Way & Terry Ave,Olive Way and Terry Avenue,,47.6148834,-122.331894,1,,0,,America/Los_Angeles,1
+10700,10700,Sand Point Way NE & Matthews Pl NE,Sand Point Way Northeast and Matthews Place Northeast,,47.6945229,-122.275177,1,,0,,America/Los_Angeles,1
+10710,10710,Sand Point Way NE & NE 93rd St,Sand Point Way Northeast and Northeast 93rd Street,,47.6961441,-122.276566,1,,0,,America/Los_Angeles,1
+10720,10720,Sand Point Way NE & NE 95th St,Sand Point Way Northeast and Northeast 95th Street,,47.6972351,-122.277443,1,,0,,America/Los_Angeles,1
+1073,1073,Olive Way & Boren Ave,Olive Way and Boren Avenue,,47.6156654,-122.330063,1,,0,,America/Los_Angeles,1
+10730,10730,Sand Point Way NE & NE 97th St,Sand Point Way Northeast and Northeast 97th Street,,47.6990929,-122.277634,1,,0,,America/Los_Angeles,1
+10750,10750,Sand Point Way NE & NE 103rd St,Sand Point Way Northeast and Northeast 103rd Street,,47.7030869,-122.277565,1,,0,,America/Los_Angeles,1
+10760,10760,Sand Point Way NE & NE 106th St,Sand Point Way Northeast and Northeast One Hundred Sixth Street,,47.7053642,-122.278374,1,,0,,America/Los_Angeles,1
+10780,10780,Sand Point Way NE & NE 110th St,Sand Point Way Northeast and Northeast One Hundred Tenth Street,,47.7092285,-122.280212,1,,0,,America/Los_Angeles,1
+108,108,E Madison St & 22nd Ave E,East Madison Street and 22nd Avenue East,,47.6181297,-122.30394,1,,0,,America/Los_Angeles,1
+10800,10800,Sand Point Way NE & NE 115th St,Sand Point Way Northeast and Northeast 115th Street,,47.7126198,-122.281837,1,,0,,America/Los_Angeles,1
+10820,10820,Sand Point Way NE & NE 120th St,Sand Point Way Northeast and Northeast One Hundred Twentieth Street,,47.7160149,-122.283005,1,,0,,America/Los_Angeles,1
+10830,10830,Sand Point Way NE & NE 123rd St,Sand Point Way Northeast and Northeast One Hundred Twenty Third Street,,47.717598,-122.283928,1,,0,,America/Los_Angeles,1
+10840,10840,NE 125th St & 39th Ave NE,Northeast 125th Street and 39th Avenue Northeast,,47.7192917,-122.28669,1,,0,,America/Los_Angeles,1
+1085,1085,Pine St & 9th Ave,Pine Street and 9th Avenue,,47.6133766,-122.332603,21,,0,,America/Los_Angeles,1
+10860,10860,NE 125th St & 35th Ave NE,Northeast 125th Street and 35th Avenue Northeast,,47.7193222,-122.291412,1,,0,,America/Los_Angeles,1
+10870,10870,NE 125th St & 33rd Ave NE,Northeast 125th Street and 33rd Avenue Northeast,,47.7193375,-122.293205,1,,0,,America/Los_Angeles,1
+109,109,E Madison St & 24th Ave E,East Madison Street and 24th Avenue East,,47.6205368,-122.300407,1,,0,,America/Los_Angeles,1
+10910,10910,12th Ave NE & NE 47th St,12th Avenue Northeast and Northeast 47th Street,,47.662281,-122.315475,1,,0,,America/Los_Angeles,1
+10911,10911,U District Station - Bay 3,You District Station - Bay Three,,47.6612053,-122.313477,1,,0,,America/Los_Angeles,1
+10912,10912,15th Ave NE & NE 43rd St,15th Avenue Northeast and Northeast 43rd Street,,47.6593704,-122.312096,1,,0,,America/Los_Angeles,1
+10914,10914,15th Ave NE & NE Campus Pkwy,15th Avenue Northeast and Northeast Campus Parkway,,47.6564217,-122.312164,1,,0,,America/Los_Angeles,1
+10915,10915,Harvard Ave E & Eastlake Ave E,Harvard Avenue East and Eastlake Avenue East,,47.6499405,-122.321999,1,,0,,America/Los_Angeles,1
+10916,10916,Harvard Ave E & Eastlake Ave E,Harvard Avenue East and Eastlake Avenue East,,47.6496201,-122.322205,1,,0,,America/Los_Angeles,1
+10917,10917,15th Ave NE & NE 40th St,15th Avenue Northeast and Northeast 40th Street,,47.6548195,-122.31221,1,,0,,America/Los_Angeles,1
+10920,10920,Harvard Ave E & E Shelby St,Harvard Avenue East and East Shelby Street,,47.647007,-122.322205,1,,0,,America/Los_Angeles,1
+10940,10940,10th Ave E & E Roanoke St,10th Avenue East and East Roanoke Street,,47.6427994,-122.32016,1,,0,,America/Los_Angeles,1
+10950,10950,10th Ave E & E Miller St,10th Avenue East and East Miller Street,,47.6411629,-122.32016,1,,0,,America/Los_Angeles,1
+10970,10970,10th Ave E & E Newton St,10th Avenue East and East Newton Street,,47.6370277,-122.320183,1,,0,,America/Los_Angeles,1
+10990,10990,10th Ave E & E Galer St,10th Avenue East and East Galer Street,,47.6321259,-122.320305,1,,0,,America/Los_Angeles,1
+11010,11010,10th Ave E & E Prospect St,10th Avenue East and East Prospect Street,,47.6288223,-122.32032,1,,0,,America/Los_Angeles,1
+11011,11011,Broadway  E & E Roy St,Broadway East and East Roy Street,,47.625515,-122.32122,1,,0,,America/Los_Angeles,1
+11012,11012,E Aloha St & Broadway  E,East Aloha Street and Broadway East,,47.6267662,-122.320961,1,,0,,America/Los_Angeles,1
+11025,11025,Boren Ave & Jefferson St,Boren Avenue and Jefferson Street,,47.6060677,-122.322029,1,,0,,America/Los_Angeles,1
+11030,11030,E Roy St & Broadway  E,East Roy Street and Broadway East,,47.625267,-122.320702,1,,0,,America/Los_Angeles,1
+11033,11033,Boren Ave & Marion St,Boren Avenue and Marion Street,,47.608429,-122.324188,1,,0,,America/Los_Angeles,1
+11035,11035,Boren Ave & Madison St,Boren Avenue and Madison Street,,47.6096344,-122.325294,1,,0,,America/Los_Angeles,1
+11040,11040,Broadway  E & E Republican St,Broadway East and East Republican Street,,47.6228943,-122.321014,1,,0,,America/Los_Angeles,1
+11050,11050,Broadway  E & E Thomas St,Broadway East and East Thomas Street,,47.6208153,-122.320992,1,,0,,America/Los_Angeles,1
+11060,11060,Broadway & E Denny Way - Bay 4,Broadway and East Denny Way - Bay Four,,47.6185379,-122.320946,1,,0,,America/Los_Angeles,1
+11070,11070,Broadway & E Pine St,Broadway and East Pine Street,,47.6161919,-122.320923,1,,0,,America/Los_Angeles,1
+11075,11075,Boren Ave & Seneca St,Boren Avenue and Seneca Street,,47.6103745,-122.32621,1,,0,,America/Los_Angeles,1
+11080,11080,E Pine St & Broadway,East Pine Street and Broadway,,47.615303,-122.321495,1,,0,,America/Los_Angeles,1
+11085,11085,Boren Ave & Madison St,Boren Avenue and Madison Street,,47.6089554,-122.324913,1,,0,,America/Los_Angeles,1
+11087,11087,Boren Ave & Columbia St,Boren Avenue and Columbia Street,,47.6075935,-122.323669,1,,0,,America/Los_Angeles,1
+11090,11090,E Pine St & Belmont Ave,East Pine Street and Belmont Avenue,,47.6152878,-122.325127,1,,0,,America/Los_Angeles,1
+111,111,E Madison St & Martin L King Jr Way E,East Madison Street and Martin Luther King Jr Way East,,47.6226578,-122.297264,1,,0,,America/Los_Angeles,1
+1110,1110,Pine St & 5th Ave,Pine Street and Fifth Avenue,,47.6117668,-122.336456,21,,0,,America/Los_Angeles,1
+11100,11100,E Pine St & Bellevue Ave,East Pine Street and Bellevue Avenue,,47.6152992,-122.327271,1,,0,,America/Los_Angeles,1
+11130,11130,Pike St & Convention Pl,Pike Street and Convention Place,,47.6123695,-122.33136,21,,0,,America/Los_Angeles,1
+11133,11133,Pike St & Minor Ave,Pike Street and Minor Avenue,,47.6137848,-122.327957,1,,0,,America/Los_Angeles,1
+11140,11140,E Pine St & Summit Ave,East Pine Street and Summit Avenue,,47.6151581,-122.324638,1,,0,,America/Los_Angeles,1
+11150,11150,E Pine St & Harvard Ave,East Pine Street and Harvard Avenue,,47.6151619,-122.321617,1,,0,,America/Los_Angeles,1
+11175,11175,Broadway And Denny,Broadway And Denny,,47.6180534,-122.320946,1,,0,,America/Los_Angeles,1
+11180,11180,Broadway  E & E John St - Bay 3,Broadway East and East John Street - Bay Three,,47.6197739,-122.32077,1,,0,,America/Los_Angeles,1
+11190,11190,Broadway  E & E Harrison St,Broadway East and East Harrison Street,,47.6221962,-122.320816,1,,0,,America/Los_Angeles,1
+11191,11191,10th Ave E & E Mercer St,10th Avenue East and East Mercer Street,,47.623951,-122.319992,1,,0,,America/Los_Angeles,1
+1120,1120,Pine St & 4th Ave,Pine Street and Fourth Avenue,,47.6111031,-122.338028,21,,0,,America/Los_Angeles,1
+11200,11200,Broadway  E & E Mercer St,Broadway East and East Mercer Street,,47.6246109,-122.320839,1,,0,,America/Los_Angeles,1
+11230,11230,10th Ave E & E Prospect St,10th Avenue East and East Prospect Street,,47.6288605,-122.320114,1,,0,,America/Los_Angeles,1
+11250,11250,10th Ave E & E Galer St,10th Avenue East and East Galer Street,,47.6322136,-122.320099,1,,0,,America/Los_Angeles,1
+11270,11270,10th Ave E & E Howe St,10th Avenue East and East Howe Street,,47.6362305,-122.319992,1,,0,,America/Los_Angeles,1
+11290,11290,10th Ave E & E Miller St,10th Avenue East and East Miller Street,,47.6410675,-122.319969,1,,0,,America/Los_Angeles,1
+11300,11300,E Roanoke St & Broadway  E,East Roanoke Street and Broadway East,,47.643261,-122.320747,1,,0,,America/Los_Angeles,1
+11330,11330,Harvard Ave E & E Shelby St,Harvard Avenue East and East Shelby Street,,47.647171,-122.321999,1,,0,,America/Los_Angeles,1
+11352,11352,15th Ave NE & NE 42nd St,15th Avenue Northeast and Northeast 42nd Street,,47.6586685,-122.311905,1,,0,,America/Los_Angeles,1
+11356,11356,NE 45th St & 17th Ave NE,Northeast 45th Street and 17th Avenue Northeast,,47.6613274,-122.31012,1,,0,,America/Los_Angeles,1
+11357,11357,NE 45th St & 20th Ave NE,Northeast 45th Street and 20th Avenue Northeast,,47.6613274,-122.306923,1,,0,,America/Los_Angeles,1
+11358,11358,U District Station - Bay 2,You District Station - Bay Two,,47.6613388,-122.313614,1,,0,,America/Los_Angeles,1
+11370,11370,15th Ave E & E Galer St,15th Avenue East and East Galer Street,,47.6324997,-122.312607,1,,0,,America/Los_Angeles,1
+11390,11390,15th Ave E & E Prospect St,15th Avenue East and East Prospect Street,,47.628479,-122.312668,1,,0,,America/Los_Angeles,1
+11400,11400,15th Ave E & E Aloha St,15th Avenue East and East Aloha Street,,47.6266823,-122.312668,1,,0,,America/Los_Angeles,1
+11410,11410,15th Ave E & E Roy St,15th Avenue East and East Roy Street,,47.6250267,-122.312698,1,,0,,America/Los_Angeles,1
+11430,11430,15th Ave E & E Republican St,15th Avenue East and East Republican Street,,47.6228943,-122.312737,1,,0,,America/Los_Angeles,1
+11480,11480,E Pine St & 15th Ave,East Pine Street and 15th Avenue,,47.6153564,-122.313255,1,,0,,America/Los_Angeles,1
+11490,11490,E Pine St & 13th Ave,East Pine Street and 13th Avenue,,47.615345,-122.31591,1,,0,,America/Los_Angeles,1
+11520,11520,E Pine St & 12th Ave,East Pine Street and 12th Avenue,,47.6152,-122.316483,1,,0,,America/Los_Angeles,1
+11535,11535,E Pine St & 15th Ave,East Pine Street and 15th Avenue,,47.6152115,-122.311852,1,,0,,America/Los_Angeles,1
+11565,11565,15th Ave E & E Thomas St,15th Avenue East and East Thomas Street,,47.6207733,-122.312607,1,,0,,America/Los_Angeles,1
+11566,11566,15th Ave E & E Thomas St,15th Avenue East and East Thomas Street,,47.6206436,-122.312805,1,,0,,America/Los_Angeles,1
+11567,11567,15th Ave E & E Denny Way,15th Avenue East and East Denny Way,,47.6187935,-122.312645,1,,0,,America/Los_Angeles,1
+11568,11568,15th Ave & E Denny Way,15th Avenue and East Denny Way,,47.6183014,-122.312851,1,,0,,America/Los_Angeles,1
+11569,11569,15th Ave & E Pine St,15th Avenue and East Pine Street,,47.6156998,-122.312668,1,,0,,America/Los_Angeles,1
+11570,11570,15th Ave E & E Republican St,15th Avenue East and East Republican Street,,47.622963,-122.312538,1,,0,,America/Los_Angeles,1
+11590,11590,15th Ave E & E Roy St,15th Avenue East and East Roy Street,,47.6254234,-122.312492,1,,0,,America/Los_Angeles,1
+11600,11600,15th Ave E & E Aloha St,15th Avenue East and East Aloha Street,,47.6270981,-122.312469,1,,0,,America/Los_Angeles,1
+11610,11610,15th Ave E & E Prospect St,15th Avenue East and East Prospect Street,,47.6289024,-122.312454,1,,0,,America/Los_Angeles,1
+11620,11620,15th Ave E & E Highland Dr,15th Avenue East and East Highland Dr,,47.6308327,-122.312424,1,,0,,America/Los_Angeles,1
+11630,11630,Grandview Pl E & E Galer St,Grandview Place East and East Galer Street,,47.6325226,-122.311821,1,,0,,America/Los_Angeles,1
+11640,11640,Grandview Pl E & E Garfield St,Grandview Place East and East Garfield Street,,47.634079,-122.311798,1,,0,,America/Los_Angeles,1
+11680,11680,Mount Rainier Dr S & S Hanford St,Mount Rainier Drive South and South Hanford Street,,47.5756569,-122.284843,1,,0,,America/Los_Angeles,1
+11690,11690,Mount Rainier Dr S & S Ridgeway Pl,Mount Rainier Drive South and South Ridgeway Place,,47.5765381,-122.28624,1,,0,,America/Los_Angeles,1
+11700,11700,S Mcclellan St & Lake Park Dr S,South Mcclellan Street and Lake Park Drive South,,47.5784073,-122.288605,1,,0,,America/Los_Angeles,1
+11720,11720,S Mcclellan St & 31st Ave S,South Mcclellan Street and 31st Avenue South,,47.5784111,-122.292671,1,,0,,America/Los_Angeles,1
+11730,11730,31st Ave S & S Lander St,31st Avenue South and South Lander Street,,47.5798607,-122.292908,1,,0,,America/Los_Angeles,1
+11750,11750,31st Ave S & S College St,31st Avenue South and South College Street,,47.5827065,-122.292892,1,,0,,America/Los_Angeles,1
+11770,11770,31st Ave S & S Plum St,31st Avenue South and South Plum Street,,47.5850983,-122.292908,1,,0,,America/Los_Angeles,1
+11790,11790,31st Ave S & S Massachusetts St,31st Avenue South and South Massachusetts Street,,47.5881615,-122.292442,1,,0,,America/Los_Angeles,1
+1180,1180,Pike St & 4th Ave,Pike Street and Fourth Avenue,,47.6100731,-122.336838,21,,0,,America/Los_Angeles,1
+11800,11800,31st Ave S & S Day St,31st Avenue South and South Day Street,,47.5905914,-122.292305,1,,0,,America/Los_Angeles,1
+11820,11820,31st Ave S & S Norman St,31st Avenue South and South Norman Street,,47.5935059,-122.292656,1,,0,,America/Los_Angeles,1
+11840,11840,31st Ave S & S Dearborn St,31st Avenue South and South Dearborn Street,,47.5959206,-122.292603,1,,0,,America/Los_Angeles,1
+11860,11860,31st Ave S & S King St,31st Avenue South and South King Street,,47.597908,-122.292519,1,,0,,America/Los_Angeles,1
+11870,11870,S Jackson St & 30th Ave S,South Jackson Street and 30th Avenue South,,47.5992508,-122.29364,1,,0,,America/Los_Angeles,1
+11880,11880,S Jackson St & 28th Ave S,South Jackson Street and 28th Avenue South,,47.5992813,-122.296005,1,,0,,America/Los_Angeles,1
+11890,11890,S Jackson St & Martin L King Jr Way S,South Jackson Street and Martin Luther King Jr Way South,,47.5993042,-122.297752,1,,0,,America/Los_Angeles,1
+1190,1190,Pike St & 6th Ave,Pike Street and Sixth Avenue,,47.6110344,-122.334526,21,,0,,America/Los_Angeles,1
+11910,11910,S Jackson St & 23rd Ave S,South Jackson Street and 23rd Avenue South,,47.5993462,-122.301811,1,,0,,America/Los_Angeles,1
+11920,11920,S Jackson St & 20th Pl S,South Jackson Street and 20th Place South,,47.5993347,-122.304642,1,,0,,America/Los_Angeles,1
+11940,11940,S Jackson St & 18th Ave S,South Jackson Street and 18th Avenue South,,47.5993042,-122.309349,1,,0,,America/Los_Angeles,1
+1195,1195,Pike St & 7th Ave,Pike Street and Seventh Avenue,,47.6118088,-122.332687,21,,0,,America/Los_Angeles,1
+11960,11960,S Jackson St & Rainier Ave S,South Jackson Street and Rainier Avenue South,,47.5991478,-122.313354,1,,0,,America/Los_Angeles,1
+11980,11980,S Jackson St & 18th Ave S,South Jackson Street and 18th Avenue South,,47.5991669,-122.309738,1,,0,,America/Los_Angeles,1
+11990,11990,S Jackson St & 20th Ave S,South Jackson Street and 20th Avenue South,,47.5991898,-122.305893,1,,0,,America/Los_Angeles,1
+120,120,E Madison St & Martin L King Jr Way E,East Madison Street and Martin Luther King Jr Way East,,47.6230965,-122.296906,1,,0,,America/Los_Angeles,1
+12010,12010,S Jackson St & 23rd Ave S,South Jackson Street and 23rd Avenue South,,47.5992203,-122.30143,1,,0,,America/Los_Angeles,1
+12030,12030,S Jackson St & 28th Ave S,South Jackson Street and 28th Avenue South,,47.5991478,-122.295952,1,,0,,America/Los_Angeles,1
+12040,12040,S Jackson St & 30th Ave S,South Jackson Street and 30th Avenue South,,47.5991173,-122.29393,1,,0,,America/Los_Angeles,1
+12050,12050,31st Ave S & S King St,31st Avenue South and South King Street,,47.597744,-122.29274,1,,0,,America/Los_Angeles,1
+12070,12070,31st Ave S & S Dearborn St,31st Avenue South and South Dearborn Street,,47.5955124,-122.292809,1,,0,,America/Los_Angeles,1
+12080,12080,31st Ave S & S Norman St,31st Avenue South and South Norman Street,,47.5930748,-122.292877,1,,0,,America/Los_Angeles,1
+12090,12090,31st Ave S & S Irving St,31st Avenue South and South Irving Street,,47.5909729,-122.292496,1,,0,,America/Los_Angeles,1
+121,121,E Madison St & 23rd Ave E,East Madison Street and 23rd Avenue East,,47.6193161,-122.302483,1,,0,,America/Los_Angeles,1
+12110,12110,31st Ave S & S Massachusetts St,31st Avenue South and South Massachusetts Street,,47.5878716,-122.292648,1,,0,,America/Los_Angeles,1
+12130,12130,31st Ave S & S Plum St,31st Avenue South and South Plum Street,,47.5849571,-122.293098,1,,0,,America/Los_Angeles,1
+12140,12140,31st Ave S & S Walker St,31st Avenue South and South Walker Street,,47.5834236,-122.293106,1,,0,,America/Los_Angeles,1
+1215,1215,Union St & 5th Ave,Union Street and Fifth Avenue,,47.6098289,-122.334511,21,,0,,America/Los_Angeles,1
+12160,12160,31st Ave S & S Lander St,31st Avenue South and South Lander Street,,47.579422,-122.293098,1,,0,,America/Los_Angeles,1
+12170,12170,S Mcclellan St & 31st Ave S,South Mcclellan Street and 31st Avenue South,,47.5782776,-122.292496,1,,0,,America/Los_Angeles,1
