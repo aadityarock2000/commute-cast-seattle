@@ -2,7 +2,7 @@ name: Collect Snapshot
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # every 5 minutes (GitHub minimum)
+    - cron: "*/10 * * * *"  # every 10 minutes
   workflow_dispatch:         # allow manual trigger from GitHub UI
 
 permissions:
