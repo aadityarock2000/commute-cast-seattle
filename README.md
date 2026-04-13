@@ -1,5 +1,7 @@
 # CommuteCast Seattle
 
+*By Aaditya Parthasarathy*
+
 A Seattle public transit reliability prediction project. The goal is to estimate **risk around ETAs**, not just show schedules — e.g., "Expected arrival 8:27, but 32% chance you arrive after 8:30."
 
 ## What it does
